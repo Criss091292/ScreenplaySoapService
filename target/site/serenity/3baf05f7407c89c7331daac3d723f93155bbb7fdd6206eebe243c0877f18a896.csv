@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Convertir temperaturas - Farenheit a Celcius","convertir numeros","SUCCESS","2021-10-24T15:33:34.8435238-05:00[America/Bogota]","0.0","8.73"
+"Convertir temperaturas - Farenheit a Celcius","convertir texto","SUCCESS","2021-10-24T15:33:43.6075302-05:00[America/Bogota]","0.0","0.61"
